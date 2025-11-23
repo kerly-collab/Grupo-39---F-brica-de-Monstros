@@ -12,7 +12,6 @@ A classificação do monstro é feita assim:
 
 ## Arquivos
 - monstro.c – código em C
-- pseudocodigo.txt – versão em pseudocódigo
 - Exemplo de execução está no chat do desenvolvimento
 
 ## Como compilar
@@ -20,3 +19,4 @@ gcc monstro.c -o monstro
 
 ## Como executar
 ./monstro
+
