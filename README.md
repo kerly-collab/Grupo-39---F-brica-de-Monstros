@@ -1,6 +1,6 @@
 # Fábrica de Monstros – Pensamento Computacional
 
-Este projeto implementa um algoritmo baseado nas regras apresentadas nos slides da disciplina.
+Este projeto implementa um algoritmo baseado nos critérios determinados para sua elaboração.
 
 ## Como funciona
 
@@ -19,4 +19,5 @@ gcc monstro.c -o monstro
 
 ## Como executar
 ./monstro
+
 
